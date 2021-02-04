@@ -1,0 +1,50 @@
+#Anasayfayi yukle
+*ToDo anasayfasina git
+*"1" sn. bekle
+*"header" kontrol et
+
+#Liste kontrolu yap
+*"liste" bos kontrol et
+*"1" sn. bekle
+
+#Proje yapilacak itemini ekle ve kontrol et
+*"newTodo" a "Proje Yapılacak" gir ve gonder
+*"1" sn. bekle
+*"projeYapilacak" kontrol et
+*"1" sn. bekle
+
+#Proje yapilacak itemini kontrol et
+*"0" siradaki "projeYapilacak" kontrol et
+*"1" sn. bekle
+
+#Bilgisayar al itemini ekle
+*"newTodo" a "Bilgisayar al" gir ve gonder
+*"1" sn. bekle
+
+#Bilgisayar al iteminin Proje yapilacak iteminin altinda oldugunu kontrol et
+*"0" siradaki "projeYapilacak" kontrol et
+*"1" sn. bekle
+*"1" siradaki "bilgisayarAl" kontrol et
+*"1" sn. bekle
+
+#Proje yapilacak radio butonuna tikla
+*"0" siradaki "radioButon" kontrol et
+*"1" sn. bekle
+*"0" siradaki "radioButon" elementine tikla
+*"1" sn. bekle
+
+#Marked item kontrol et
+*"0" siradaki "projeYapilacakMarked" kontrol et
+*"1" sn. bekle
+
+#Herseyi duzenli yap itemini ekle ve kontrol et
+*"newTodo" a "Herseyi duzenli yap" gir ve gonder
+*"1" sn. bekle
+*"2" siradaki "herSeyiDuzenliYap" kontrol et
+
+#Proje yapilacak sil ve kontrol et
+*"0" siradaki "projeYapilacak" uzerine git
+*"projeSil" butonuna tikla
+*"1" sn. bekle
+*"projeYapilacakSilindi" bos kontrol et
+*"5" sn. bekle

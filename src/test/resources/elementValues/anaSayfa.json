@@ -1,0 +1,52 @@
+[
+  {
+    "key": "header",
+    "value": "//*[contains(text(), 'todos')]",
+    "type": "xpath"
+  },
+  {
+    "key": "liste",
+    "value": "//li[@class='todo']",
+    "type": "xpath"
+  },
+  {
+    "key": "newTodo",
+    "value": "//input[@class='new-todo']",
+    "type": "xpath"
+  },
+  {
+    "key": "projeYapilacak",
+    "value": "//li[@class='todo']",
+    "type": "xpath"
+  },
+  {
+    "key": "bilgisayarAl",
+    "value": "//li[@class='todo']",
+    "type": "xpath"
+  },
+  {
+    "key": "radioButon",
+    "value": "//input[@class='toggle']",
+    "type": "xpath"
+  },
+  {
+    "key": "projeYapilacakMarked",
+    "value": "//li[@class='todo completed']",
+    "type": "xpath"
+  },
+  {
+    "key": "herSeyiDuzenliYap",
+    "value": "//li[@class='todo']",
+    "type": "xpath"
+  },
+  {
+    "key": "projeSil",
+    "value": "//button[@class='destroy']",
+    "type": "xpath"
+  },
+  {
+    "key": "projeYapilacakSilindi",
+    "value": "//*[contains(text(), 'Proje yapılacak')]",
+    "type": "xpath"
+  }
+]
